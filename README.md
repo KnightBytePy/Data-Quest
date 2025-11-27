@@ -7,7 +7,7 @@ Model Monsters is a turn-based strategy game where each monster is powered by it
 
 🤖 ML-Driven Creatures: Every monster is controlled by a lightweight ML model that adapts behavior using probability, feature weighting, and decision logic.
 
-🧠 Strategic Battle Engine: Combat outcomes rely on model predictions, confidence scores, and data-driven action selection — not random numbers.
+🧠 Strategic Battle Engine: Combat outcomes rely on model predictions, confidence scores, and data-driven action selection not random numbers.
 
 🎨 Built in Unity: Smooth 2D visuals, polished UI flow, and extensible systems structured with maintainable C# architecture.
 
@@ -24,22 +24,12 @@ Python – training simple models, data prep, balancing experiments
 
 JSON/ScriptableObjects – scalable content system
 
-GitHub Actions (optional) – automated builds/testing
+GitHub Actions – automated builds/testing
 
 🎥 Gameplay Preview (coming soon lol just dealing with finals rn :p)
 
-📦 Project Structure
-ModelMonsters/
-│── Assets/
-│   ├── Scripts/
-│   ├── Monsters/
-│   ├── UI/
-│   └── Data/
-│── PythonModels/
-│── Docs/
-│── README.md
 
-🚀 Why This Project Matters
+🚀 Why This Project Matters (honestly it's to help me study for school as I no longer have time to do my hobby[video games])
 
 Demonstrates practical ML integration inside real-time systems
 
